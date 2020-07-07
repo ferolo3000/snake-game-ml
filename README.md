@@ -1,5 +1,7 @@
 # Snake Game with ML 🐍
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/143420ac-d8ab-42ed-bd51-5d929e4d1c91/deploy-status)](https://app.netlify.com/sites/snake-game-ml/deploys)
+
 Snake game controlled using [ml5.js](https://ml5js.org/) for image detection.
 
 ## Control

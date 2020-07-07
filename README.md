@@ -1,7 +1,13 @@
-# Snake Game with ML
+# Snake Game with ML 🐍
 
-Snake game controlled using (ml5.js)[https://ml5js.org/] for image detection.
-CONTROLS: Up: 🙆 | Down:🤜🤛 | Left:✋ | Right: 🤚
+Snake game controlled using [ml5.js](https://ml5js.org/) for image detection.
+
+## Control
+
+- Up: 🙆
+- Down:🤜🤛
+- Left:✋
+- Right: 🤚
 
 ## Tools🔨
 
